@@ -15,3 +15,12 @@
 ## demo / runtime:
 
 [Demo](https://clan.code.braun.rocks/challenge)
+
+
+## sources
+
+* Task paper of clan
+* [Galtonboard / Bean machine (en)](https://en.wikipedia.org/wiki/Bean_machine)
+* [Galtonbrett (de)](https://de.wikipedia.org/wiki/Galtonbrett)
+* [n-over-k-calculation 1](https://de.wikipedia.org/wiki/Binomialkoeffizient)
+* [n-over-k-calculation 2](https://www.php.de/forum/webentwicklung/php-einsteiger/php-tipps-2007/34805-n-%C3%BCber-k)
