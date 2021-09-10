@@ -1,0 +1,9 @@
+.message_area {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    width: calc(100% - 2rem);
+}
+.message_area .alert {
+
+}
