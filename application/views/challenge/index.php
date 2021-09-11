@@ -35,8 +35,3 @@
 </div>
 <div class="childs-layer-<?= $layer ?>">
 </div>
-<!--<div id="html2test" class="col-12 childs-layer---><? //= $layer ?><!--">-->
-<!--	<div class="row boxes">-->
-<!--	</div>-->
-<!--</div>-->
-<? //= ci()->get_view('challenge/boxes', $boxes_view_data) ?>

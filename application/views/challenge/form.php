@@ -62,10 +62,5 @@
 		</div>
 	</div>
 
-	<!--	<div class="form-group">-->
-	<!--		<label for="data[visual_mode]">Anzeige-Modus</label>-->
-	<!--		<input type="text" class="form-control" id="data[visual_mode]" name="data[visual_mode]" value="2" disabled>-->
-	<!--	</div>-->
-
 	<button type="submit" class="btn btn-primary">Start</button>
 </form>
